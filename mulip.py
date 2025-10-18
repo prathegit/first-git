@@ -1,0 +1,1 @@
+print("multiplication:",3*6)
